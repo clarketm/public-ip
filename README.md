@@ -3,7 +3,7 @@ A simple public IP address API.
 <br>
 <br>
 <a href="https://github.com/clarketm/public-ip">
-  <p align="center"><img src="/ip.png" /></p>
+  <p align="center"><img width="20%" src="/ip.png" /></p>
 </a>
 
 ## API
