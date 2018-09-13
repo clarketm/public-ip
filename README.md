@@ -11,11 +11,18 @@ A free, public IP API.
 ```bash
 $ curl -XGET -4 "https://ipv4.travismclarke.com/"
 ```
+```bash
+167.88.112.238
+```
+
 
 **GET** public *IPv6* address
 
 ```bash
 $ curl -XGET -6 "https://ipv6.travismclarke.com/"
+```
+```bash
+2604:a781:2:b1::13:4101
 ```
 
 ## License
