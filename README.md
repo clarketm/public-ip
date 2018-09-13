@@ -8,13 +8,13 @@ A free, public IP API.
 
 ## API
 
-**GET** public *IPv4* address
+[**GET**](https://ipv4.travismclarke.com/) public *IPv4* address
 
 ```bash
 $ curl -XGET -4 "https://ipv4.travismclarke.com/"
 ```
 
-**GET** public *IPv6* address
+[**GET**](https://ipv6.travismclarke.com/) public *IPv6* address
 
 ```bash
 $ curl -XGET -6 "https://ipv6.travismclarke.com/"
