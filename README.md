@@ -1,5 +1,5 @@
 # public-ip
-A free, public IP API.
+A simple public IP address API.
 <br>
 <br>
 <a href="https://github.com/clarketm/public-ip">
