@@ -2,7 +2,9 @@
 A free, public IP API.
 <br>
 <br>
-[![public-ip](/ip.png)](https://github.com/clarketm/public-ip)
+<a href="https://github.com/clarketm/public-ip">
+  <p align="center"><img src="/ip.png" /></p>
+</a>
 
 ## API
 
